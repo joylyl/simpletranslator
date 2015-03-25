@@ -9,10 +9,10 @@
 
 # 软件截图
 
-![image](https://github.com/joylyl/simpletranslator/tree/master/Screenshot/main.png)
+![](https://github.com/joylyl/simpletranslator/tree/master/Screenshot/main.png)
 
 
-![image](https://github.com/joylyl/simpletranslator/tree/master/Screenshot/main1.png)
+![](https://github.com/joylyl/simpletranslator/tree/master/Screenshot/main1.png)
 
 
-![image](https://github.com/joylyl/simpletranslator/tree/master/Screenshot/main2.png)
+![](https://github.com/joylyl/simpletranslator/tree/master/Screenshot/main2.png)
